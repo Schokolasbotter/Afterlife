@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ddd4f3515bfdb48ac718a3b4da6f0a, type: 3}
+  m_Name: StoryPart1
+  m_EditorClassIdentifier: 
+  title: My Camp.
+  description: Hello again. You have found my camp. Probably you are wondering who
+    I am, but it does not matter. However, I will tell you what I have been doing
+    here. I thought I was living a normal afterlife until uncovering some of the
+    secrets of this place. I found other spirits trapped in here as well. I managed
+    to find escape and help them. While doing so I was chased by cursed creatures
+    and had to build this camp as well as a defence mechanism to save myself. You
+    might have encountered one the doors that I constructed to stop the creatures.
+    One of the buttons for opening it is in my camp. Further ahead you will encounter
+    more of my defences. I have the opening mechanisms hidden across the area. Find
+    them and you will be able to move forward.
+  power: 
+  note: 

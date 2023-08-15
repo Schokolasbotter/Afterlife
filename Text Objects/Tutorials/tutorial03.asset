@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ddd4f3515bfdb48ac718a3b4da6f0a, type: 3}
+  m_Name: tutorial03
+  m_EditorClassIdentifier: 
+  title: Time to Fly
+  description: If you are reading this, you have listened to what I have told you
+    so far. It is time to show me you can do even better. It was hard to place platforms
+    in this river. Spread your wings and glide through the air to reach what is still
+    there.
+  power: <New Power - after jumping press SPACE again to Glide>
+  note: '<NOTE: This power does not require magic. Combine it with the previous two
+    to reach platforms that are far away>'

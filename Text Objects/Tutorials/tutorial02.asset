@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ddd4f3515bfdb48ac718a3b4da6f0a, type: 3}
+  m_Name: tutorial02
+  m_EditorClassIdentifier: 
+  title: Dash through the air!
+  description: "Sometimes jumping alone won\u2019t get you to where you need to go.
+    I tried my best to build a path in this area but building in water is too difficult.
+    Some of the platforms might get destroyed in time. Wood was the only material
+    I could use and some of the creatures that followed me could have destroyed some
+    of the platforms. Try using your wings to dash forward to get to what is left."
+  power: <New Power - press E to Dash>
+  note: '<NOTE: You can combine this power with the high jump you got earlier if
+    you have enough magic>'

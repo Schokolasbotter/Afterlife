@@ -1,7 +1,7 @@
 # Afterlife
 > A 3D first-person puzzle platformer with physics-based environmental interactions and a modular, designer-friendly interaction framework.
 
-![gameplay gif](ADD_GIF_HERE)
+![gameplay gif](gameplay_afterlife.gif)
 
 [▶ Play on itch.io](https://schokolasbotter.itch.io/afterlife) | [📁 View Source](https://github.com/Schokolasbotter/Afterlife)
 
@@ -91,4 +91,4 @@ Completing this project as effectively a two-person team under deadline taught m
 ## Credits
 
 - **Programming:** Laurent Klein
-- **Design & Art:** []
+- **Design & Art:** Stefan Markovski

@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Platform:** PC | **Engine:** Unity / C# | **Role:** Lead Programmer (Team of 2)
+**Platform:** PC | **Engine:** Unity / C# | **Role:** Lead Programmer (Team of 3. completed as 2)
 
 Afterlife is a 3D open-world puzzle platformer built as a collaborative university project. The player explores an environment, activating switches and unlocking gates while progressively gaining three traversal abilities — a vertical boost, horizontal boost, and glide — each required to solve increasingly complex puzzles. The game culminates in a final puzzle demanding mastery of all three abilities simultaneously.
 
